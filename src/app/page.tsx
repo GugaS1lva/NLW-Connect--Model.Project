@@ -17,7 +17,7 @@ export default function Home() {
 
       <InputRoot>
         <InputIcon>
-          <Mail />  
+          <Mail />
         </InputIcon>
 
         <InputField />
